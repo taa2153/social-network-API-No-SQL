@@ -1,0 +1,22 @@
+{
+  "name": "social-network-api-no-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taa2153/social-network-API-No-SQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taa2153/social-network-API-No-SQL/issues"
+  },
+  "homepage": "https://github.com/taa2153/social-network-API-No-SQL#readme",
+  "dependencies": {
+    "inquirer": "^9.0.2"
+  }
+}
